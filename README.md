@@ -19,6 +19,7 @@ The ETL methodology was employed to Extract, Transform and Load the Microsoft Ex
 -	Profit for the countries (Canada, France, Germany, Mexico, USA)
 -	Number of Products
 -	Sum of units sold
+  
 The dashboard was created using the data visualization tools in **Power BI**.
 
 # Key insights

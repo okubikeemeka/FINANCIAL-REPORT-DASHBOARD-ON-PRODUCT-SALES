@@ -1,11 +1,13 @@
-INTRODUCTION:
+<img width="1200" alt="Financial Report Dashboard" src="https://github.com/okubikeemeka/Financial-report-dashboard-on-product-sales/assets/136992065/28b2989d-2482-4633-b26f-5cabb8b22942">
+
+# Introduction
 This financial report delves into a meticulous analysis of product sales performance. It offers valuable insights into the strengths and weaknesses of product portfolios through the examination of profit margins and targets, revenue and units sold, aimed at providing clear and data driven perspectives on sales trends and financial gains. Join me as we embark on a journey through the numbers, uncovering opportunities for growth and profit maximization from product sales.
 
-DATA INFORMATION:
+# Data information
 This project utilized a fictitious dataset from Lead – Leap Consulting, comprising information including Business segments, Country, Products, Units sold, Manufacturing price, Sale price, Gross sales, Discounts, Cost of goods sold, Month number, Month and Year.
 
-DATA ANALYSIS AND VISUALIZATION:
-The ETL methodology was employed to Extract, Transform and Load the Microsoft Excel dataset in Power BI. The Power Query editor was used to confirm 100% validity of all the columns and Data Analysis Expressions (DAX) was used in Power BI to calculate the following key performance metrics:
+# Data analysis and visualization
+The ETL methodology was employed to Extract, Transform and Load the Microsoft Excel dataset in Power BI. The **Power Query editor** was used to confirm 100% validity of all the columns and **Data Analysis Expressions (DAX)** was used in Power BI to calculate the following key performance metrics:
 -	Total gross sales
 -	Total discounts
 -	Total sales
@@ -17,9 +19,9 @@ The ETL methodology was employed to Extract, Transform and Load the Microsoft Ex
 -	Profit for the countries (Canada, France, Germany, Mexico, USA)
 -	Number of Products
 -	Sum of units sold
-The dashboard was created using the data visualization tools in Power BI.
+The dashboard was created using the data visualization tools in **Power BI**.
 
-KEY INSIGHTS:
+# Key insights
 -	An overall total sale of $118.73M was made, with $16.89M total profit, 14.23% total profit percentage and 1M total units of products sold.
 -	Total profit started trending up in July 2013, rising by 477.83% in 5 quarters. The upward trend in profit between the two timeframes was also consistent for the five sales countries.
 -	Sharp inclinations in profit were observed between Q3 (July) and Q4 (October) 2014 for all the countries except the USA, with a steep decline and 24.84% profit reduction (from $738,820 to $555,289).

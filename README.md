@@ -1,4 +1,5 @@
-<img width="1200" alt="Financial Report Dashboard" src="https://github.com/okubikeemeka/Financial-report-dashboard-on-product-sales/assets/136992065/28b2989d-2482-4633-b26f-5cabb8b22942">
+<img width="1200" alt="Financial report dashboard main" src="https://github.com/okubikeemeka/Financial-report-dashboard-on-product-sales/assets/136992065/5dea4b0d-0c96-4848-a0c8-b4e636cab7de">
+
 
 # Introduction
 This financial report delves into a meticulous analysis of product sales performance. It offers valuable insights into the strengths and weaknesses of product portfolios through the examination of profit margins and targets, revenue and units sold, aimed at providing clear and data driven perspectives on sales trends and financial gains. Join me as we embark on a journey through the numbers, uncovering opportunities for growth and profit maximization from product sales.

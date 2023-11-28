@@ -1,4 +1,5 @@
-<img width="1200" alt="Financial report dashboard main" src="https://github.com/okubikeemeka/Financial-report-dashboard-on-product-sales/assets/136992065/5dea4b0d-0c96-4848-a0c8-b4e636cab7de">
+<img width="1200" alt="Financial report dashboard by Emeka" src="https://github.com/okubikeemeka/Financial-report-dashboard-on-product-sales/assets/136992065/dc76eabc-e90c-44f1-9f19-ea5aa3f436f5">
+
 
 
 # Introduction
